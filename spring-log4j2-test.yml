@@ -1,0 +1,7 @@
+rootLogger:
+  info
+logger:
+  Logger1:
+    info
+  Logger2:
+    debug
