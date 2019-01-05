@@ -2,6 +2,6 @@ rootLogger:
   info
 logger:
   Logger1:
-    info
+    debug
   Logger2:
     debug
