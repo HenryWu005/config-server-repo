@@ -3,5 +3,3 @@ rootLogger:
 logger:
   com.fymod.config.Logger1:
     info
-  Logger2:
-    debug
