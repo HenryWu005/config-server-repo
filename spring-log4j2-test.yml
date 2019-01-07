@@ -1,5 +1,5 @@
 rootLogger:
-  info
+ debug
 logger:
   com.fymod.config.Logger2:
     info
