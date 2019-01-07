@@ -2,4 +2,4 @@ rootLogger:
  debug
 logger:
   com.fymod.config.Logger2:
-    info
+    debug
