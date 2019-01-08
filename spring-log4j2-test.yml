@@ -2,7 +2,7 @@ Loggers:
     Root:
       level: info
     Logger:
-      - name: loggerconfig.client.Logger1
+      - name: loggerconfig.client.logger.Logger1
         level: debug
-      - name: loggerconfig.client.Logger2
+      - name: loggerconfig.client.logger.Logger2
         level: info
