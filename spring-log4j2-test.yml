@@ -3,6 +3,6 @@ Loggers:
       level: info
     Logger:
       - name: loggerconfig.client.logger.Logger1
-        level: info
+        level: debug
       - name: loggerconfig.client.logger.Logger2
         level: info
